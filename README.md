@@ -8,14 +8,9 @@
 
 3. Edit the information below:
 
+My name is: Jason
 
-```
+I like to: Code
 
-My name is: Jason Campbell
-
-I like to: do drawings
-
-I'm learning: coding
-
-
+I'm learning: Coding
 
